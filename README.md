@@ -4,7 +4,6 @@
 I am currently Building scalable data pipelines and streaming architectures for financial applications.
 
 🎓 Computer Engineering @ Yıldız Technical University  
-💼 System Management project student @ KoçSistem  
 📍 Istanbul, Turkey
 
 ---
@@ -47,4 +46,4 @@ Pair trading strategy with mean reversion
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifakba)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eelifakbas.11@gmail.com)
 
- Open to **Data Engineering** opportunities in FinTech & Trading companies.
+
