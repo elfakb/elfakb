@@ -1,49 +1,66 @@
 # Hi, I'm Elif 👋
 
+Computer Engineering student at Yıldız Technical University with a strong interest in Data Engineering, Machine Learning,Finance, and AI Systems.
 
-I am currently Building scalable data pipelines and streaming architectures for financial applications.
+Currently building real-time data pipelines, streaming architectures, financial analytics platforms, and LLM-powered applications.
 
-🎓 Computer Engineering @ Yıldız Technical University  
-📍 Istanbul, Turkey
+## Areas of Interest
 
----
+* Data Engineering & Distributed Systems
+* Real-Time Streaming (Kafka, Spark)
+* Machine Learning & MLOps
+* Finance & Algorithmic Trading
+* Retrieval-Augmented Generation (RAG)
+* Cloud Computing
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Data Engineering:**  
-Apache Kafka • Apache Spark • Apache Airflow • Docker • PostgreSQL 
+### Data Engineering
 
-**Cloud:**  
+Apache Kafka • Apache Spark • Apache Airflow • Docker • PostgreSQL
+
+### Machine Learning & AI
+
+Scikit-Learn • XGBoost • Pandas • NumPy • LangChain • Ollama
+
+### Cloud
+
 AWS (S3, EC2, RDS) • Google Cloud Platform
 
-**Programming:**  
-Python (Pandas, NumPy, PySpark) • SQL • Bash
+### Programming
 
----
+Python • SQL • Bash
 
-## Featured Projects
+## ⭐ Featured Projects
 
-### [Real-Time Crypto Momentum Calculator](https://github.com/elfakb/quant-rsi-project)
-Real-time RSI & momentum analysis with **Kafka & Spark**  
-Streaming architecture for quantitative trading signals
+### Real-Time Quant Analysis
 
-### [Real-Time Data Pipeline](https://github.com/elfakb/Real-Time-Data-Pipeline)
-End-to-end streaming ETL: **Kafka → Spark → Database**  
-High-throughput data ingestion and processing
+Real-time financial analytics platform using Kafka and Spark for streaming market data processing.
 
-### [Technical Indicator Backtester](https://github.com/elfakb/technical-indicator-backtester)
-Modular backtesting framework with vectorized operations  
-Python • Pandas • NumPy
+### AI Enterprise RAG System
 
-### [BIST30 Pairs Trading](https://github.com/elfakb/BIST30-Pairs-Trading)
-Cointegration-based statistical arbitrage on Turkish stocks  
-Pair trading strategy with mean reversion
+Enterprise-grade Retrieval-Augmented Generation system for document ingestion, embedding, retrieval, and LLM-powered question answering.
 
----
+### Financial Document Intelligence
 
-##  Contact
+Local RAG application powered by Llama 3.1 and Ollama for financial document analysis and information extraction.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elifakba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eelifakbas.11@gmail.com)
+### ML Stock Price Forecasting
 
+Machine learning-based stock price prediction and forecasting using historical market data.
 
+### Historical Stock Data Analysis
+
+Apache Spark analytics platform for large-scale stock market analysis with Streamlit dashboard visualization.
+
+### Real-Time Data Pipeline
+
+End-to-end streaming ETL architecture using Kafka, Spark, and PostgreSQL.
+
+## Currently Working On 
+
+* Advanced Data Engineering
+* Cloud-Native Architectures
+* Financial Machine Learning
+* Large Language Models (LLMs)
+* Real-Time Analytics
