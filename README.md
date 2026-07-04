@@ -3,7 +3,7 @@
 Building production-ready Machine Learning and AI applications with a focus on Financial ML, Credit Risk Modeling, and LLM-powered systems.
 
 - Financial Machine Learning
-- 💳redit Risk Modeling
+- Credit Risk Modeling
 - LLM Applications
 
 ## Featured Projects
@@ -24,7 +24,7 @@ Building production-ready Machine Learning and AI applications with a focus on F
 ### Financial Machine Learning 
 - Multi-Model Financial Time Series Forecasting [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting)
 
-### 💳 Credit Risk
+### Credit Risk Modelling
 - PD Scorecard Modeling
 
 ### AI Engineering
