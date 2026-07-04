@@ -1,66 +1,64 @@
-# Hi, I'm Elif 👋
+### Hi, I'm Elif — Aspiring ML Engineer 
 
-Computer Engineering student at Yıldız Technical University with a strong interest in Data Engineering, Machine Learning,Finance, and AI Systems.
+Currently building end-to-end AI & Machine Learning projects in Financial ML, Credit Risk, and LLM Applications.
 
-Currently building real-time data pipelines, streaming architectures, financial analytics platforms, and LLM-powered applications.
+->>> Scroll down to explore featured projects and live demos 
 
-## Areas of Interest
+---
 
-* Data Engineering & Distributed Systems
-* Real-Time Streaming (Kafka, Spark)
-* Machine Learning & MLOps
-* Finance & Algorithmic Trading
-* Retrieval-Augmented Generation (RAG)
-* Cloud Computing
+### Featured Projects
 
-## 🛠 Tech Stack
+**1. Churn Prediction**
+Problem: Predicting customer churn to reduce revenue loss
+Method: XGBoost + SHAP for explainability, deployed via FastAPI
+Result: 89% AUC · [Live Demo](link) · [Code](link)
 
-### Data Engineering
+**2. RAG Document Bot**
+Problem: Answering questions from long documents automatically
+Method: LangChain + ChromaDB retrieval pipeline
+Result: [demo gif/screenshot] · [Live Demo](link) · [Code](link)
 
-Apache Kafka • Apache Spark • Apache Airflow • Docker • PostgreSQL
+**3. PD Scorecard (Credit Risk)**
+Problem: Estimating probability of default for credit applicants
+Method: Logistic regression with WoE/IV transformation
+Result: Gini X · [Live Demo](link) · [Code](link)
 
-### Machine Learning & AI
+**4. Stock Price Forecasting**
+Problem: Predicting short-term stock price movement
+Method: LSTM/Transformer models in PyTorch
+Result: [metric] · [Code]([link](https://github.com/elfakb/multi-model-financial-time-series-forecasting))
 
-Scikit-Learn • XGBoost • Pandas • NumPy • LangChain • Ollama
+**5. Customer Segmentation**
+Problem: Grouping customers by behavior for targeted marketing
+Method: K-Means, DBSCAN, RFM analysis
+Result: [insight, e.g. "identified 4 segments"] · [Live Demo](link) · [Code](link)
 
-### Cloud
+**6. Sentiment Analysis**
+Problem: Classifying sentiment in financial news/text
+Method: Fine-tuned BERT, deployed via Gradio
+Result: F1 X · [Live Demo](link) · [Code](link)
 
-AWS (S3, EC2, RDS) • Google Cloud Platform
+---
+## Machine Learning Portfolio
 
-### Programming
+* Customer Churn Prediction
 
-Python • SQL • Bash
 
-## ⭐ Featured Projects
+## Financial Machine Learning Portfolio
 
-### Real-Time Quant Analysis
+* Multi-Model Stock Price Forecasting [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting)
 
-Real-time financial analytics platform using Kafka and Spark for streaming market data processing.
+## Credit Risk Modelling Portfolio
 
-### AI Enterprise RAG System
+* PD Scorecard Modelling
 
-Enterprise-grade Retrieval-Augmented Generation system for document ingestion, embedding, retrieval, and LLM-powered question answering.
+## AI Engineering Portfolio
 
-### Financial Document Intelligence
+* RAG Document Assistant [Code](https://github.com/elfakb/ai-financial-document-intelligence)
 
-Local RAG application powered by Llama 3.1 and Ollama for financial document analysis and information extraction.
 
-### ML Stock Price Forecasting
+## Business Analytics Portfolio
 
-Machine learning-based stock price prediction and forecasting using historical market data.
 
-### Historical Stock Data Analysis
+---
 
-Apache Spark analytics platform for large-scale stock market analysis with Streamlit dashboard visualization.
-
-### Real-Time Data Pipeline
-
-End-to-end streaming ETL architecture using Kafka, Spark, and PostgreSQL.
-
-## Currently Working On 
-
-* Advanced Data Engineering
-* Cloud-Native Architectures
-* Financial Machine Learning
-* Large Language Models (LLMs)
-* Real-Time Analytics
