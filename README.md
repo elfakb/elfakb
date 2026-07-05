@@ -23,6 +23,7 @@ Building production-ready Machine Learning and AI applications with a focus on F
 
 ### Financial Machine Learning 
 - Multi-Model Financial Time Series Forecasting [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting)
+- Multi-Model Financial Time Series Forecasting Global [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting-v2-global)
 
 ### Credit Risk Modelling
 - PD Scorecard Modeling
