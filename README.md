@@ -7,10 +7,10 @@ Building production-ready Machine Learning and AI applications with a focus on F
 - LLM Applications
 ## Areas of Interest
 
-Credit Risk Modeling
-Financial Analytics
-Time Series Forecasting
-Large Language Models (LLMs)
+- Credit Risk Modeling
+- Financial Analytics
+- Time Series Forecasting
+- Large Language Models (LLMs)
 
 MLOps & Model Deployment
 ## Featured Projects
