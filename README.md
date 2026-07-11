@@ -9,7 +9,6 @@ Building production-ready Machine Learning and AI applications with a focus on F
 - Financial Analytics
 
 
-MLOps & Model Deployment
 ## Featured Projects
 
 | Project | Description |
