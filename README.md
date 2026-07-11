@@ -2,15 +2,12 @@
 
 Building production-ready Machine Learning and AI applications with a focus on Financial ML, Credit Risk Modeling, and LLM-powered systems.
 
+## Areas of Interest
 - Financial Machine Learning
 - Credit Risk Modeling
 - LLM Applications
-## Areas of Interest
-
-- Credit Risk Modeling
 - Financial Analytics
-- Time Series Forecasting
-- Large Language Models (LLMs)
+
 
 MLOps & Model Deployment
 ## Featured Projects
