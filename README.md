@@ -15,7 +15,7 @@ Building production-ready Machine Learning and AI applications with a focus on F
 |---------|-------------|
 | 📈 Multi-Model Financial Time Series Forecasting | End-to-end forecasting platform comparing statistical, ML and deep learning models. |
 | 💳 PD Scorecard Modeling | Credit risk scorecard with WoE, IV and Logistic Regression. |
-| 🤖 Financial Document Intelligence | RAG application for querying financial reports using LLMs. |
+| 🤖 Financial Document Asistant | RAG application for querying financial reports using LLMs. |
 | 🚀 Customer Churn Prediction | Explainable churn prediction with XGBoost and SHAP. |
 | 👥 Customer Segmentation | RFM analysis with K-Means and DBSCAN. |
 | 💬 Financial Sentiment Analysis | Financial news sentiment classification using BERT. |
@@ -35,7 +35,7 @@ Building production-ready Machine Learning and AI applications with a focus on F
 - Financial Document Intelligence (RAG) [Code](https://github.com/elfakb/ai-financial-document-intelligence)
 
 ### Machine Learning
-- Customer Churn Prediction
+- Customer Churn Prediction [Code](https://github.com/elfakb/Telco-Customer-Churn-Prediction)
 - Customer Segmentation
 - Sentiment Analysis
 
