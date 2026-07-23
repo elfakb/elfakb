@@ -31,6 +31,7 @@ Building production-ready Machine Learning and AI applications with a focus on F
 
 
 ### Credit Risk Modelling
+- Credit Risk Scoring with Machine Learning [Code](https://github.com/elfakb/credit-risk-scoring-ml/tree/main)
 - PD Scorecard Modeling
 
 ### AI Engineering
