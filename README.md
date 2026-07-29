@@ -1,49 +1,48 @@
-# Hi, I'm Elif 👋
+<h1 align="center">Hi, I'm Elif</h1>
 
-Building production-ready Machine Learning and AI applications with a focus on Financial ML, Credit Risk Modeling, and LLM-powered systems.
+<p align="center">
+  Building production-ready Machine Learning and AI applications — with a focus on Financial ML, Credit Risk Modeling, and LLM-powered systems.
+</p>
 
-## Areas of Interest
-- Financial Machine Learning
-- Credit Risk Modeling
-- LLM Applications
-- Financial Analytics
+<p align="center">
+  <a href="https://elfakb.github.io"><b>elfakb.github.io</b></a>
+</p>
 
+---
 
-## Featured Projects
+### About Me
 
-| Project | Description |
-|---------|-------------|
-| 📈 Multi-Model Financial Time Series Forecasting | End-to-end forecasting platform comparing statistical, ML and deep learning models. |
-| 💳 PD Scorecard Modeling | Credit risk scorecard with WoE, IV and Logistic Regression. |
-| 🤖 Financial Document Asistant | RAG application for querying financial reports using LLMs. |
-| 🚀 Customer Churn Prediction | Explainable churn prediction with XGBoost and SHAP. |
-| 👥 Customer Segmentation | RFM analysis with K-Means and DBSCAN. |
-| 💬 Financial Sentiment Analysis | Financial news sentiment classification using BERT. |
+I am a Computer Engineering student at Yıldız Technical University, mostly interested in Artificial Intelligence, Machine Learning, and Data Science. I work on building ML models, LLM-based systems, and data pipelines, and enjoy turning raw data into practical solutions.
+
+You can see my projects at: [elfakb.github.io](https://elfakb.github.io) | GitHub: [github.com/elfakb](https://github.com/elfakb)
 
 ---
 
 ## Portfolio
 
-### Financial Machine Learning 
-- Multi-Model Financial Time Series Forecasting [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting)
-- Multi-Model Financial Time Series Forecasting Global [Code](https://github.com/elfakb/multi-model-financial-time-series-forecasting-v2-global)
-- MPT Portfolio Optimizer [Code](https://github.com/elfakb/mpt-portfolio-optimizer)
-
-
-### Credit Risk Modelling
-- Credit Risk Scoring with Machine Learning [Code](https://github.com/elfakb/credit-risk-scoring-ml/tree/main)
-- PD Scorecard Modeling
-
 ### AI Engineering
-- Financial Document Intelligence (RAG) [Code](https://github.com/elfakb/ai-financial-document-intelligence)
+- **[Financial Document Intelligence (RAG)](https://github.com/elfakb/ai-financial-document-intelligence)** — LLM-powered retrieval system for financial documents
 
-### Machine Learning
-- Customer Churn Prediction [Code](https://github.com/elfakb/Telco-Customer-Churn-Prediction)
-- Customer Segmentation
-- Sentiment Analysis
+### Machine Learning & Data Science
+- **[Customer Churn Prediction](https://github.com/elfakb/Telco-Customer-Churn-Prediction)** — predicting telecom customer churn
+- **[Credit Risk Scoring with ML](https://github.com/elfakb/credit-risk-scoring-ml/tree/main)** — end-to-end credit risk scoring pipeline
+- **[Multi-Model Financial Time Series Forecasting](https://github.com/elfakb/multi-model-financial-time-series-forecasting)** — comparing forecasting models on financial data
+- **[Financial Time Series Forecasting — Global v2](https://github.com/elfakb/multi-model-financial-time-series-forecasting-v2-global)** — expanded, global-scale version
+
+### Finance
+- **[MPT Portfolio Optimizer](https://github.com/elfakb/mpt-portfolio-optimizer)** — portfolio optimization based on Modern Portfolio Theory
+
+See detailed breakdowns of every project at [elfakb.github.io](https://elfakb.github.io)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-Python • PyTorch • scikit-learn • XGBoost • SQL • LangChain • MLflow • FastAPI • Streamlit
+`Python` `PyTorch` `scikit-learn` `XGBoost` `SQL` `LangChain` `MLflow` `FastAPI` `Streamlit`
+
+---
+
+## Let's Connect
+
+Portfolio: **[elfakb.github.io](https://elfakb.github.io)**
+GitHub: **[github.com/elfakb](https://github.com/elfakb)**
