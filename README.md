@@ -22,7 +22,7 @@ You can see my projects at: [elfakb.github.io](https://elfakb.github.io) | GitHu
 
 ### AI Engineering
 - **[Financial Document Assistant(RAG)](https://github.com/elfakb/financial-document-assistant/tree/main)** — A RAG application for financial documents.
-- 📚 [What to Read Next](https://github.com/elfakb/what-to-read-next)
+- 📚 [What to Read Next](https://github.com/elfakb/what-to-read-next)** - 
 Hybrid book recommendation engine combining semantic search (OpenAI embeddings + ChromaDB) with collaborative filtering. 
 
 
