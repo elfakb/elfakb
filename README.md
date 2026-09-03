@@ -27,7 +27,7 @@ You can see my projects at: [elfakb.github.io](https://elfakb.github.io) | GitHu
 ### Data Engineering & Cloud Engineering
 
 - **[E-Commerce ETL Pipeline](https://github.com/elfakb/ecommerce-etl-pipeline)** — End-to-end batch ETL pipeline processing ~100K real e-commerce records into a Dockerized PostgreSQL data warehouse, with Metabase dashboards for business metrics.
-- 
+- **[Azure Secure 3-Tier Infrastructure](https://github.com/elfakb/azure-3tier-secure-architecture/tree/main)** — Secure 3-tier Azure architecture (VNet, NSGs, Load Balancer, Key Vault, RBAC) provisioned manually via Azure CLI.
 
 ### Machine Learning & Data Science
 
