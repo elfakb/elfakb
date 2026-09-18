@@ -23,7 +23,7 @@ You can see my projects at: [elfakb.github.io](https://elfakb.github.io) | GitHu
 - **[Financial Document Assistant (RAG)](https://github.com/elfakb/financial-document-assistant/tree/main)** — A RAG application for financial documents.
 - **[AI Marketing Content Generator](https://github.com/elfakb/ai-marketing-generator/tree/main)** — A web app that generates platform-ready marketing content (LinkedIn, Instagram, Blog, Email) from a simple product description.
 - **[What to Read Next](https://github.com/elfakb/what-to-read-next)** — 📚Hybrid book recommendation engine combining semantic search (OpenAI embeddings + ChromaDB) with collaborative filtering.
-- **[CV Analyzer Bot ]([https://github.com/elfakb/what-to-read-next](https://github.com/elfakb/cv-analyzer-bot))** — Built a web application that analyzes resumes using GPT-4o-mini, extracting structured insights (strengths, skills, suggested roles) via JSON schema enforcement
+- **[CV Analyzer Bot ](https://github.com/elfakb/cv-analyzer-bot)** — Built a web application that analyzes resumes using GPT-4o-mini, extracting structured insights (strengths, skills, suggested roles) via JSON schema enforcement
 
 ### Data Engineering & Cloud Engineering
 
